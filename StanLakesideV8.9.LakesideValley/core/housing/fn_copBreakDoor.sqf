@@ -7,7 +7,6 @@
 private["_house","_door","_title","_titleText","_progressBar","_cpRate","_cP","_uid"];
 _house = param [0,ObjNull,[ObjNull]];
 if(isNull _house OR !(_house isKindOf "House_F")) exitWith {};
-if(isNil {(_house getVariable "house_owner")}) exitWith {[localize "STR_House_Raid_NoOwner", false] spawn domsg;};
 
 _uid = (_house getVariable "house_owner") select 0;
 
