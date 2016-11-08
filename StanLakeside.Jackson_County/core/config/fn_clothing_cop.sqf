@@ -22,6 +22,8 @@ switch (_filter) do
 		_ret =
 		[
 			["U_007_BIS_Marshall","Cadet",10],
+			["A3L_EC_FBI","FBI Combat",10],
+			["FBI_rang10","FBI Uniform",10],
 			["police_kevuni1",nil,15],
 			["police_kevuni2",nil,15],
 			["police_kevuni3",nil,15],
@@ -139,6 +141,7 @@ switch (_filter) do
 		[
 			
 			["Campaign_Hat_Light",nil,5],
+			["Police_capo_badge","Czapka FBI",5],
 			["Campaign_Hat_Tan",nil,5],
 			["Campaign_Hat_Washedout",nil,5],
 			["Campaign_Hat_Dark",nil,5],
@@ -237,6 +240,7 @@ switch (_filter) do
 		_ret =
 		[
 			["V_RebreatherB","Aparat oddechowy",20],
+			["A3L_fbivest1","Kamizelka FBI",20],
 			["jamie_blue","Kamizelka Cadet",20],
 			["kif_police_vest","Kamizelka do Munduru",20],
 			["cg_policevest1_fix","Kamizelka Policyjna",20],
@@ -267,6 +271,10 @@ switch (_filter) do
 			["kif_supervisor_sheriff_vest_dorian", "SO Supervisor D.Lych", "15"],
 			["kif_supervisor_sheriff_vest_mike", "SO Supervisor M. Williams", "15"],
 			["A3L_EC_PATROL_VEST","Sheriff Krotka",15],
+			["kev_hess_security_heavy_vest","nil",20],
+			["kev_hess_security_short_vest","nil",20],
+			["DOC_Vest_Threat","Correction Kamizelka Dluga",15],
+			["DOC_Vest_Threat_Tan","Correction Kamizelak Konwoj",15],
 			["kif_sheriff_traffic_vest","Sheriff Drogowka",20]
 			/*["DOC_Vest_Threat_Fix",nil,20],
 			["DOC_Vest_Threat_Tan_Fix",nil,20],

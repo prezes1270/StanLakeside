@@ -81,6 +81,7 @@ switch (_shop) do
 		_return = 
 		[
 			/*["ivory_wrx_ems",95500],*/
+			["rs4_fd",10000],
 			["ivory_m3_ems",95500],
 			["ivory_m3_emsRR",95500],
 			["ivory_suburban_ems",95500],
@@ -88,7 +89,7 @@ switch (_shop) do
 			["cg_evoems1",20000],
 			["cg_evoems2",20000],
 			["EvoXEMS",100000],
-			//["charger_ems",100000],
+			["charger_ems",100000],
 			/*["kif_Taurus_ems1",20000],*/
 			["kif_Taurus_ems2",20000],
 			["A3L_CVPILBFD",20000],
@@ -1076,11 +1077,12 @@ switch (_shop) do
 			["ivory_isf_unmarked",200000],
 			//SERT
 			["charger_sert",250000],
-			["Navara_Policia",200000]
+			["Navara_Policia",200000],
 			["cg_evoSERT1",250000],
 			["DAR_SWATPolice",100000],
 			["A3L_TaurusUC",50000],
 			["ivory_wrx_marked",200000],
+			["max_dodge_black",200000],
 			//SO
 			["kif_cvpi_sheriff_lb_19",10000],
 			["kif_cvpi_sheriff_slick_20",10000],
@@ -1904,7 +1906,9 @@ switch (_shop) do
 			["C_Heli_Light_01_civil_F",45000],
 			["kif_vehicles_helicopter_mh9_police",85000],
 			["melb_h6m",85000],
-			["O_Heli_Light_02_unarmed_F",100000]
+			["O_Heli_Light_02_unarmed_F",100000],
+			["kev_vehicles_helicopter_orca_sert",100000],
+			["kev_vehicles_helicopter_orca_freddy",100000]
 
 		];
 	};

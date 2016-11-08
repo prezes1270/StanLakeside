@@ -93,6 +93,7 @@ switch (_filter) do
 			["kif_clothing_CivShirtVolcom",nil,500],
 			["kif_clothing_CivShirtVolcomLogo",nil,500],
 			["kif_clothing_CivShirtVolcomMonster",nil,500],
+			["kev_clothing_CivShirtNvidia",nil,500],
 			
 
 			["OrangePlaid_uni","A3L Plaid (Orange)",35],
@@ -593,6 +594,7 @@ switch (_filter) do
 			["kaelmonty2",nil,550],
 			["kaelmario",nil,550],	
 			["kaelsuits",nil,550],	
+			["kevnvidiaa",nil,550],
 			["koiladc",nil,550],
 			["koilbatman_1",nil,550],	
 			["koilbender_1",nil,550],	
