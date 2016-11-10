@@ -37,7 +37,8 @@ switch (_filter) do
 			["RR_SWAT_UNIFORM_obj","Kombinezon SWAT",15],
 			["TCG_SWAT","Komendant",15],
 			["TRYK_U_B_BLK","Pilot Coveralls",15],
-			["LS_Marshal_Jacket3",nil,15]
+			["LS_Marshal_Jacket3",nil,15],
+			["TRYK_U_B_OD_OD_CombatUniform",nil,15]
 		];
 	};
 
@@ -60,7 +61,10 @@ switch (_filter) do
 			["TRYK_H_PASGT_OD","SERT Helmet OD",5],
 			["policia_geo_boina_azul",nil,500],
 			["policia_geo_boina_negra",nil,500],
-			["policia_geo_boina_roja",nil,500]
+			["policia_geo_boina_roja",nil,500],
+			["BHD_Protec_helmet",nil,500],
+			["BHD_Protec_helmet2",nil,500],
+			["BHD_Protec_helmet3",nil,500]
 		];
 	};
 
@@ -99,6 +103,8 @@ switch (_filter) do
 			["TRYK_V_PlateCarrier_blk_L",nil,15],
 			["TCG_sertvest1","UniV2 SERT",15],
 			["TRYK_V_tacv1LC_P2_BK","Dowodca SERT",15],
+			["kif_sert_olive_vest","SERT Olive Vest",15],
+			["kif_sert_olive2_vest","SERT Olive 2 Vest",15],
 			["kif_swat_vest","Police SWAT Vest",15],
 			["kif_swat_vest2","Police SWAT Corporal Vest",15],
 			["kif_swat_vest3","Police SWAT Sergeant Vest",15],
